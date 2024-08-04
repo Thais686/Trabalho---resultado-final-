@@ -1,0 +1,191 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+body{
+    font-family: "Lato",sans-serif;
+    display: block;
+    margin: 20px 200px 0px 200px;
+    background-color: #99764ed3;
+
+
+}
+.imagemCafe     {
+
+
+    width: 500px;
+
+
+}
+
+h1 { text-align: center }
+
+
+.formatoImagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+    h1{
+
+        color: rgba(105, 56, 0, 0.842);
+        font-size: 430%;
+    }
+
+    h3 {
+
+        color: #9c5b11d3;
+            font-size: 200%;
+    }
+
+    .cabeçalho{
+
+        width: 60px;
+        height: 60px;
+
+      }
+      .cabeçalhoA{
+
+       width:60px;
+       height: 60px;
+
+      }
+
+      h2{
+
+        color: rgba(80, 47, 10, 0.836);
+        font-size: 250%;
+
+
+      }
+
+      footer {
+        background-color: #63390ad3;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+
+    .pessoal{
+
+        border:solid rgb(0, 0, 0) 1px;
+
+        margin: 10px;
+    box-shadow: 10px 10px;
+
+ width: 400px;
+
+    }
+
+    .criadora{
+
+        text-align: center;
+        
+    }
+
+  
+.pessoal{
+
+    display:inline-block;
+
+}
+
+.sociais{
+
+
+width: 50px;
+
+
+}
+
+.linha{
+
+
+color:white;
+font-size: 150%;
+
+
+
+}
+
+.cafes{
+
+    
+    color: rgb(14,12,12);
+    display: flex;
+    flex-direction: row;
+   gap: 50px;
+    justify-content: space-between;
+ 
+ .tiposCafes{
+
+
+    text-decoration: none;
+  
+    color: black;
+
+    }
+
+}
+#CABECARIO{
+    background-color: #af6714d3;
+   
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+.cabeçalhoImagem{
+  
+width: 80px;
+
+}
+
+#logo{
+
+    display: inline-block; 
+    margin: 0 45%;
+
+}
+
+p{
+
+
+    font-size: 150%;
+}
+
+li{
+
+    font-size: 150%;
+}
+
+img{
+    border-radius: 10px;
+
+
+}
+
+button{
+
+   
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #af6714d3;
+    
+}
+
+
+a:visited{
+    color: rgb(231, 112, 15) ; 
+}
+a:hover , a:active{
+    color: rgb(177, 134, 18);
+}
+
+
+
+
+
